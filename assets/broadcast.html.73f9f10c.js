@@ -1,0 +1,1 @@
+const t={key:"v-254e0bd4",path:"/plugins/common/broadcast.html",title:"\u53D1\u9001\u5E7F\u64AD (Broadcast)",lang:"en-US",frontmatter:{sidebarDepth:2},excerpt:"",headers:[{level:2,title:"\u6307\u4EE4\uFF1Abroadcast",slug:"\u6307\u4EE4-broadcast",children:[]}],git:{updatedTime:1652013784e3},filePathRelative:"plugins/common/broadcast.md"};export{t as data};

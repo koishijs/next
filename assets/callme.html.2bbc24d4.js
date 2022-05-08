@@ -1,0 +1,1 @@
+const e={key:"v-4d4c654c",path:"/plugins/accessibility/callme.html",title:"\u8BBE\u7F6E\u6635\u79F0 (Callme)",lang:"en-US",frontmatter:{sidebarDepth:2},excerpt:"",headers:[{level:2,title:"\u6307\u4EE4\uFF1Acallme",slug:"\u6307\u4EE4-callme",children:[]}],git:{updatedTime:1652013784e3},filePathRelative:"plugins/accessibility/callme.md"};export{e as data};

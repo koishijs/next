@@ -1,0 +1,1 @@
+const e={key:"v-101f4fec",path:"/about/releases/v4.5.html",title:"v4.5 \u7248\u672C\u4ECB\u7ECD",lang:"en-US",frontmatter:{sidebarDepth:2},excerpt:"",headers:[{level:2,title:"\u591A\u8BED\u8A00\u652F\u6301",slug:"\u591A\u8BED\u8A00\u652F\u6301",children:[]}],git:{updatedTime:1652013784e3},filePathRelative:"about/releases/v4.5.md"};export{e as data};

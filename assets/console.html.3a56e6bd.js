@@ -1,0 +1,1 @@
+const e={key:"v-726af11c",path:"/manual/starter/console.html",title:"\u4F7F\u7528\u63A7\u5236\u53F0",lang:"en-US",frontmatter:{sidebarDepth:2},excerpt:"",headers:[{level:2,title:"\u5B89\u88C5\u548C\u914D\u7F6E\u63D2\u4EF6",slug:"\u5B89\u88C5\u548C\u914D\u7F6E\u63D2\u4EF6",children:[]}],git:{updatedTime:1652013784e3},filePathRelative:"manual/starter/console.md"};export{e as data};

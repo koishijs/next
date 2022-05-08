@@ -1,0 +1,1 @@
+const e={key:"v-66dda119",path:"/manual/advanced/server.html",title:"\u914D\u7F6E\u670D\u52A1\u5668",lang:"en-US",frontmatter:{sidebarDepth:2},excerpt:"",headers:[{level:2,title:"\u4F7F\u7528 nginx",slug:"\u4F7F\u7528-nginx",children:[]}],git:{updatedTime:1652013784e3},filePathRelative:"manual/advanced/server.md"};export{e as data};

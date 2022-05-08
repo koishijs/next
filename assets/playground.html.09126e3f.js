@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as o,b as r}from"./app.7e6eba9e.js";const s={},c={id:"\u6F14\u7EC3\u573A",tabindex:"-1"},_=o("a",{class:"header-anchor",href:"#\u6F14\u7EC3\u573A","aria-hidden":"true"},"#",-1),n=r(" \u6F14\u7EC3\u573A"),d=[_,n];function h(i,l){return t(),a("h1",c,d)}var u=e(s,[["render",h],["__file","playground.html.vue"]]);export{u as default};

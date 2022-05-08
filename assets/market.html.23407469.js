@@ -1,0 +1,1 @@
+const t={key:"v-40ff9984",path:"/market.html",title:"\u63D2\u4EF6\u5E02\u573A",lang:"en-US",frontmatter:{market:!0,title:"\u63D2\u4EF6\u5E02\u573A"},excerpt:"",headers:[],git:{updatedTime:1652013784e3},filePathRelative:"market.md"};export{t as data};

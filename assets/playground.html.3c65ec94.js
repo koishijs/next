@@ -1,0 +1,1 @@
+const t={key:"v-50f90be5",path:"/playground.html",title:"\u6F14\u7EC3\u573A",lang:"en-US",frontmatter:{layout:"Playground"},excerpt:"",headers:[],git:{updatedTime:1652013784e3},filePathRelative:"playground.md"};export{t as data};

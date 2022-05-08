@@ -1,0 +1,1 @@
+const e={key:"v-c23bfef2",path:"/manual/starter/node.html",title:"\u5B89\u88C5 Node.js",lang:"en-US",frontmatter:{sidebarDepth:2},excerpt:"",headers:[],git:{updatedTime:1652013784e3},filePathRelative:"manual/starter/node.md"};export{e as data};
